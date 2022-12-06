@@ -12,3 +12,8 @@
     "json-server": "^0.16.3"
   }
 }
+
+"liveServer.settings.ignoreFiles": [
+  ".vscode/**",
+  "**/db.json"
+],
